@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'three20MacSample' target in the 'three20MacSample' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

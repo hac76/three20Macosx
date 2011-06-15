@@ -1,0 +1,6 @@
+[submodule "three20"]
+	path = three20
+	url = https://github.com/facebook/three20.git
+[submodule "Chameleon"]
+	path = Chameleon
+	url = https://github.com/BigZaphod/Chameleon.git
